@@ -27,3 +27,4 @@ The "Self Organizing Recurrent Network Simulator" allows you to create different
 A [repository](https://github.com/trieschlab/tms_model) with code used in [Schaworonkow & Triesch, 2018](https://doi.org/10.1016/j.brs.2018.03.010) entitled "Ongoing brain rhythms shape I-wave properties in a computational model".
 
 ## Archived
+Packages that are not further maintained.
