@@ -18,7 +18,7 @@ Ready-to-use open-source packages developed by trieschlab.
 
 The "Self Organizing Recurrent Network Simulator" allows you to create different Neuron-Groups, define their Behaviour and connect them with Synapse-Groups.
 
-[Documentation](https://readthedocs.org/projects/self-organizing-recurrent-network-simulator/) - [Github](https://github.com/trieschlab/Self-Organizing-Recurrent-Network-Simulator)
+[Documentation](https://readthedocs.org/projects/self-organizing-recurrent-network-simulator/) - [Github](https://github.com/trieschlab/SORNSim)
 
 ## Paper Related Repositories
 
