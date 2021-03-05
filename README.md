@@ -18,7 +18,7 @@ Ready-to-use open-source packages developed by trieschlab.
 
 The "Python modular neural network toolbox" allows you to create different Neuron-Groups, define their Behaviour and connect them with Synapse-Groups.
 
-[Documentation](https://readthedocs.org/projects/self-organizing-recurrent-network-simulator/) - [Github](https://github.com/trieschlab/PymoNNto)
+[Documentation](https://pymonnto.readthedocs.io/) - [Github](https://github.com/trieschlab/PymoNNto)
 
 ## Paper Related Repositories
 
